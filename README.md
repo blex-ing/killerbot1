@@ -1,2 +1,2 @@
 # killerbot1
-a fepository for killer bots made as lab asignments
+a repository for killer bots made as lab asignments
